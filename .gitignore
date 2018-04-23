@@ -1,0 +1,16 @@
+/node_modules/
+/rev/
+/web/
+/.idea/
+/.idea/workspace.xml
+**/*.xml
+/statics/styles/*.css
+/statics/styles/*.css.map
+/statics/styles/**
+/statics/styles/main.css.map
+/statics/styles/main.css
+/logs/
+/.vscode/
+/statics/scripts/page/digGold/**.js
+/statics/scripts/page/digGold/**.map
+/statics/scripts/page/**/**.map

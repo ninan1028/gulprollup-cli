@@ -1,0 +1,12 @@
+{
+  "parserOptions": {
+    "ecmaVersion": 6, //指定ECMAScript支持的版本，6为ES6
+    "sourceType": "script", //指定来源的类型，有两种”script”或”module”
+    "ecmaFeatures": {
+      "jsx": false//启动JSX
+    }
+  },
+  "env":{
+    "browser":true
+  }
+}

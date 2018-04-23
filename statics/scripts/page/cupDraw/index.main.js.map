@@ -1,0 +1,1 @@
+{"version":3,"file":"index.main.js","sources":["D:/mygithub/gulpinit/statics/scriptES/pages/cupDraw/index.main.js"],"sourcesContent":["\r\nvar vue= new Vue({\r\n\tel:'#app',\r\n\tdata:{\r\n\r\n\t},\r\n\tmounted(){\r\n\t\t\r\n\t}\r\n})"],"names":["vue","Vue"],"mappings":";;;AACA,IAAIA,MAAK,IAAIC,GAAJ,CAAQ;KACb,MADa;OAEX,EAFW;QAAA,qBAKP;CALD,CAAT;;;;"}
